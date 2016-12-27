@@ -1,0 +1,25 @@
+{
+  "name": "tinyajax",
+  "version": "0.0.0",
+  "description": "tinyajax",
+  "main": "lib/tinyajax.js",
+  "scripts": {
+    "prepublish": "webpack"
+  },
+  "repository": "attrs/tinyajax",
+  "author": "joje <joje.attrs@gmail.com>",
+  "homepage": "https://github.com/attrs/tinyajax",
+  "license": "MIT",
+  "keywords": [
+    "ajax"
+  ],
+  "files": [
+    "dist",
+    "lib",
+    "LICENSE",
+    "README.md"
+  ],
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "name": "tinyajax",
+  "description": "tinyajax",
+  "main": "dist/tinyajax.js",
+  "moduleType": ["node", "amd", "globals"],
+  "authors": [
+    "joje <joje.attrs@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/attrs/tinyajax",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "web_modules",
+    "bower_components",
+    "gulpfile.js",
+    "webpack.config.js",
+    "test",
+    "tests",
+    "bin"
+  ]
+}
